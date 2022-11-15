@@ -1,9 +1,3 @@
-//
-//  main.c
-//  Donut
-//
-//  Created by Mattia Dorz on 14/11/22.
-//
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
