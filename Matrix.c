@@ -1,10 +1,3 @@
-//
-//  main.c
-//  matrice
-//
-//  Created by Mattia Dorz on 06/10/22.
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
