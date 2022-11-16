@@ -1,10 +1,3 @@
-//
-//  main.c
-//  Es_1
-//
-//  Created by Mattia Dorz on 17/10/22.
-//
-
 #include <stdio.h>
 #define N 5
 int main()
